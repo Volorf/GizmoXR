@@ -1,0 +1,23 @@
+{
+  "name": "com.volorf.gizmo-xr",
+  "version": "1.0.0",
+  "displayName": "Gizmo XR",
+  "description": "A gizmo for spatial debuggin in XR.",
+  "unity": "2019.4",
+  "unityRelease": "7f1",
+  "hideInEditor": "false",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "VR",
+    "debug",
+    "XR",
+    "Gizmo"
+  ],
+  "author": {
+    "name": "Oleg Frolov",
+    "email": "olegfrolovdesign@gmail.com",
+    "url": "https://www.olegfrolov.design"
+  }
+}
